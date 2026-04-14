@@ -1,5 +1,4 @@
 package cuentas;
-
 /**
      * Clase que simula el funcionamiento de una cuenta bancaria
      * Permite la gestion con numero de cuenta y nombre de la persona

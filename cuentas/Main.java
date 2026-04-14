@@ -1,5 +1,4 @@
 package cuentas;
-
 /**
  * clase que prueba la clase cuentas.CCuenta
  */
